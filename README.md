@@ -1,5 +1,5 @@
 # Parametros
-<action> <?file>
+program <-action-> <-?file->
 
 Action define a ação a ser realizada, entre elas estão:
 
