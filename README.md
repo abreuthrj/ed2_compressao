@@ -1,4 +1,4 @@
-# Parametros
+# Execução
 <b>program <-action-> <-?file-></b>
 
 Action define a ação a ser realizada, entre elas estão:
@@ -12,5 +12,5 @@ Portanto para setar a saida para um arquivo, usar a sintaxe:
 programa encode texto.txt > codificado.txt<br>
 programa decode codificado.txt > decodificado.txt
 
-# Parametros para o compilador
+# Compilação
 g++ *.cpp _inc/*.cpp -o program.exe
